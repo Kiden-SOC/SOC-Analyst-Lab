@@ -1,0 +1,6 @@
+*.session
+*.session.data
+*.session.script
+*.db
+zap.log
+.ZAP/
